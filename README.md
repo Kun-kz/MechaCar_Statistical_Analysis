@@ -66,4 +66,4 @@ My null hypothesis was that there was no difference between the maintenance cost
 
 To finish this analysis, I would need to do a paired sample t-test. By doing paired sample t-test, we could measure whether the average maintenance cost difference between two sets of observations, which were the set of MechaCars and the set of other competitors, was equal to zero.
 
-In order to run this statistical test, I would collect the maintenance cost data of 50 MechaCars and the maintenance cost data of 50 cars from other manufactures.
+In order to run this statistical test, I would collect the maintenance cost data of 50 MechaCars and the maintenance cost data of 50 cars from other manufacturers.
