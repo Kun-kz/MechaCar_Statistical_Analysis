@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 
 To predict MPG (miles per gallon) of prototype MechaCars, we performed a linear regression:
-mpg = β0 + β1*vehicle_length+ β2*vehicle_weight + β3*spoiler_angle + β4*ground_clearance + β5\*AWD + ε
+mpg = β0 + β1 * vehicle_length+ β2 * vehicle_weight + β3 * spoiler_angle + β4 * ground_clearance + β5 * AWD + ε
 
 Our result was as follows:
 
@@ -37,17 +37,20 @@ The t-test that compared the PSI across all manufacturing lots against the popul
 ![](Pictures/Pic5.png)
 
 - t = -1.8931 < t0.05/2,149, which was around 1.9, so we cannot reject the hypothesis. The PSI across all manufacturing lots was not statistically different from the population mean of 1,500.
-  The t-test that compared the PSI of lot1 against the population mean of 1,500 was as follows:
+
+The t-test that compared the PSI of lot1 against the population mean of 1,500 was as follows:
 
 ![](Pictures/Pic6.png)
 
 - t = 0 < t0.05/2,49, which was around 2, so we cannot reject the hypothesis. The PSI of lot1 was not statistically different from the population mean of 1,500.
-  The t-test that compared the PSI of lot2 against the population mean of 1,500 was as follows:
+  
+The t-test that compared the PSI of lot2 against the population mean of 1,500 was as follows:
 
 ![](Pictures/Pic7.png)
 
 - t = 0.51745 < t0.05/2,49, which was around 2, so we cannot reject the hypothesis. The PSI of lot2 was not statistically different from the population mean of 1,500.
-  The t-test that compared the PSI of lot3 against the population mean of 1,500 was as follows:
+
+The t-test that compared the PSI of lot3 against the population mean of 1,500 was as follows:
 
 ![](Pictures/Pic8.png)
 
